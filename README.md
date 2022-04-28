@@ -1,10 +1,32 @@
 ## 💜 Olá, meu nome é <strong>Wesley Viana Dolse!</strong>
 
-> Aprendiz na área de Desenvolvimento.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-🔭 Atualmente estou trabalhando como Front-end na Zip Software.
+<p align="left"> 
+  Atualmente trabalho na Zip Software como <strong> Web Designer e Front-end</strong>.  
+</p>
 
-💬 Me chame no <code><img height="32" src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" alt="Discord"/> Wesley Dolse#2797
+
+<p align="left">
+  💌 Entre em contato comigo por meio dos links⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:vianav88@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/wesleydolse/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://bityli.com/WesleyGithub" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.facebook.com/wesleydolse" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="https://www.instagram.com/wesleydolse/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
 ----
 
