@@ -48,8 +48,11 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-[![card](https://github-readme-stats.vercel.app/api?username=WesleyZipSoftware&theme=tokyonight)](https://github.com/WesleyZipSoftware/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyZipSoftware&count_private=true&layout=compact&theme=tokyonight)](https://github.com/WesleyZipSoftware/)
+<div>
+	<a href="https://github.com/WesleyZipSoftware">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyZipSoftware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyZipSoftware&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
+</div>
 
 ![Snake animation](https://github.com/WesleyZipSoftware/WesleyZipSoftware/blob/output/github-contribution-grid-snake.svg)
 
