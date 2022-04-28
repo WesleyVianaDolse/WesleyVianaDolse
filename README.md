@@ -4,7 +4,7 @@
 
 🔭 Atualmente estou trabalhando como Front-end na Zip Software.
 
-💬 Me chame no Discord: <b>Wesley Dolse#2797</b>.
+💬 Me chame no <code><img height="32" src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" alt="Discord"/> Wesley Dolse#2797
 
 ----
 
