@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Atualmente trabalho na Zip Software como <strong> Web Designer e Front-end</strong>.  
+  Trabalhando na Zip Software como <strong> Front-end, Web Designer e Product Owner</strong>.  
 </p>
 
 
