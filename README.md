@@ -44,7 +44,7 @@
 </div>
 
 ---
-
+<!--
 ## ⭐ Informações sobre minha conta GitHub
 
 <div align="center">
@@ -54,4 +54,4 @@
 </div>
 
 ![Snake animation](https://github.com/WesleyZipSoftware/WesleyZipSoftware/blob/output/github-contribution-grid-snake.svg)
-
+-->
