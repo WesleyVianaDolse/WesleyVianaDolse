@@ -32,36 +32,17 @@
 
 ## 🚀 Minhas Skills
 
-<div align="center">
-
-<img align="center" alt="Flutter" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-
-<img align="center" alt="Java" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-
-<img align="center" alt="TypeScript" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-
-<img align="center" alt="HTML5" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-
-<img align="center" alt="CSS3" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-
-<img align="center" alt="MySQL" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-
-<img align="center" alt="SQL Server" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-
-<img align="center" alt="CSharp" height="40" width="50"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-
-</div>
+<p align="center">
+  <img alt="Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="SQL Server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img alt="CSharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</p>
 
 ---
 <!--
