@@ -9,7 +9,7 @@
 <p align="left">
   <a href="mailto:vianav88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/wesleydolse/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://bityli.com/WesleyGithub"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"></a>
+  <a href="https://wa.me/5516992000345"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.facebook.com/wesleydolse"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/wesleydolse/"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
